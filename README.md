@@ -88,3 +88,4 @@ For each year find the total number of apps that are updated.
 	Reducer output:   key: year, value: 10 (2018: 10 )
 	Language:  We will be using Python for our MR project.
 	What kind of chart will you use to display your results?  Bar Graph
+ 
