@@ -57,7 +57,7 @@ For all categorys find category with the highest number of ratings.
 	Language:  We will be using Python for our MR project.
 	What kind of chart will you use to display your results?  Bar Graph
 	
-![Category Review Count](Max_reviews/maxReviewsBarChart.png?raw=true)
+![Category Review Count](Max_reviews/maxReviewsBarChart.png?raw=true) 
 
 For each category find the lowest size.
 
@@ -73,6 +73,8 @@ For each category find the lowest size.
 	Reducer output:   key: ART_AND_DESIGN, value: 25 (minimum: 25 )
 	Language:  We will be using Python for our MR project.
 	What kind of chart will you use to display your results?  Bar Graph
+	
+![Category Review Count](Max_reviews/MinAppChart.png?raw=true)
 
 For each year find the total number of apps that are updated.
 
