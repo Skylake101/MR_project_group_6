@@ -74,7 +74,7 @@ For each category find the lowest size.
 	Language:  We will be using Python for our MR project.
 	What kind of chart will you use to display your results?  Bar Graph
 	
-![Category Review Count](Max_reviews/MinAppChart.png?raw=true)
+![Category Review Count](Lowest_size/MinAppChart.png?raw=true)
 
 For each year find the total number of apps that are updated.
 
